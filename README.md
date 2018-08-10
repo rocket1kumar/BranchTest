@@ -34,13 +34,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ncnbcm
 =======
 # BranchTest
->>>>>>> ca44968dad195487698334985103408f76f5e34a
-<<<<<<< HEAD
 
-<<<<<<< HEAD
-//again test
-=======
-=======
-
->>>>>>> 4fa822abe5f3f68e6a0376bbce281d32f364dd26
->>>>>>> 21aa43f75f8d2b8ccbb078096d8b6a0a5b352eaa
